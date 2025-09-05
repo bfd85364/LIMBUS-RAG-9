@@ -1,0 +1,5 @@
+llama-index==0.10.41
+llama-index-core==0.11.10
+llama-index-readers-web==0.2.1
+discord-py-interactions
+python-dotenv

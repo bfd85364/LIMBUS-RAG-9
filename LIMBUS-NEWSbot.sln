@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LIMBUS-NEWSbot", "LIMBUS-NEWSbot.pyproj", "{23FF321E-1835-43EB-B956-5492B7012872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FF321E-1835-43EB-B956-5492B7012872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FF321E-1835-43EB-B956-5492B7012872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA8F8EFA-AFD1-4EBD-B2F8-85EFC39796CC}
+	EndGlobalSection
+EndGlobal
