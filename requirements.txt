@@ -1,5 +1,27 @@
-llama-index==0.10.41
-llama-index-core==0.11.10
-llama-index-readers-web==0.2.1
-discord-py-interactions
-python-dotenv
+    #파이썬 버전 업데이트 이후 필요한 모듈들 
+     #Discord 봇 (v5)
+     #discord-py-interactions==5.15.0
+    #aiohttp>=3.9.5
+    #attrs>=25.3.0
+
+# 환경 변수 로딩
+#python-dotenv>=1.1.1
+
+# LangChain / HuggingFace 임베딩
+#langchain>=0.3.27
+#langchain-community>=0.3.27
+#langchain-huggingface>=0.3.1
+#langchain-openai>=0.3.31
+#langchain-core  
+#sentence-transformers
+#faiss -cpu
+
+# 벡터 DB
+#faiss-cpu>=1.12.0
+
+# 유튜브 url정적 크롤링 / 파싱
+#beautifulsoup4>=4.13.4 -차후 단빵숲 활용시 추가 
+#lxml>=6.0.0- 차후 당 빵숲 활용시추가  
+#requests>=2.32.4 #차후, 단빵숲 활용시 추가 
+#yt-dlp==2025.8.20
+#pytube>=12.1.2
